@@ -1,11 +1,15 @@
 ## Hi I'm WeiTing 😄👋
 
-<br/>I'm a architect, engineer, researcher, programmer who focuses on robotic & digital fabrication, computational design in architecture, and strogly interested in visual computing.<br/>
-I recevied a MAS in Architecture and Digital Fabrication at ETH Zürich and BArch at Tamkang University and workes as a project consultant in AEC and scientific researcher. My passion combines computation and robotic with design and fabrication.<br/><br/><br/>
 
-Connect me with:<br/>
+### 💬 About Me
+<br/>I'm a architect, engineer, researcher, programmer who focuses on robotic & digital fabrication, computational design in architecture, and strogly interested in visual computing.
+I recevied a MAS in Architecture and Digital Fabrication at ETH Zürich and BArch at Tamkang University and workes as a project consultant in AEC and scientific researcher. My passion combines computation and robotic with design and fabrication.<br/>
+
+### 📫 Connect me with:<br/>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/chen-weiting/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://weitingworks.com/) 
+
+
 
 <!--
 **WeiTing1991/WeiTing1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
