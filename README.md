@@ -5,7 +5,6 @@ I'm a architect, engineer, researcher, programmer who focuses on robotic & digit
 I recevied a MAS in Architecture and Digital Fabrication at ETH Zürich and BArch at Tamkang University and workes as a project consultant in AEC and scientific 
 researcher. My passion combines computation and robotic with design and fabrication.
 
-Currently, I'm a scientific assistant at the Chair of Digital Building Technologies, Institute of Technology in Architecture (ITA) of ETH Zürich.
 
 
 Connect me with: <br>
@@ -13,11 +12,16 @@ Connect me with: <br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/chen-weiting/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://weitingworks.com/) 
 
+[![WeiTing's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **WeiTing1991/WeiTing1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Generator:
 https://arturssmirnovs.github.io/github-profile-readme-generator/
+
+Currently, I'm a scientific assistant at the Chair of Digital Building Technologies, Institute of Technology in Architecture (ITA) of ETH Zürich.
+
 
 Here are some ideas to get you started:
 
