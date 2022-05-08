@@ -11,6 +11,7 @@ Currently, I'm a scientific assistant at the Chair of Digital Building Technolog
 Connect me with: <br>
 <br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/chen-weiting/)
+<br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://weitingworks.com/) 
 
 
