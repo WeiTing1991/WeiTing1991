@@ -1,25 +1,20 @@
 ## Hi I'm WeiTing 😄👋
 
-I'm a architect, engineer, researcher, programmer who focuses on robotic & digital fabrication, computational design in architecture, and strogly interested in visual computing.
 
+I'm a architect, engineer, researcher, programmer who focuses on robotic & digital fabrication, computational design in architecture, and strogly interested in visual computing.
 I recevied a MAS in Architecture and Digital Fabrication at ETH Zürich and BArch at Tamkang University and workes as a project consultant in AEC and scientific 
 researcher. My passion combines computation and robotic with design and fabrication.
-
-
 
 Connect me with: <br>
 <br>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/chen-weiting/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://weitingworks.com/) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 <!--
 **WeiTing1991/WeiTing1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Generator:
 https://arturssmirnovs.github.io/github-profile-readme-generator/
+https://github.com/anuraghazra/github-readme-stats
 
 Currently, I'm a scientific assistant at the Chair of Digital Building Technologies, Institute of Technology in Architecture (ITA) of ETH Zürich.
 
