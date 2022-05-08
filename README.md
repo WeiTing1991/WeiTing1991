@@ -2,7 +2,7 @@
 
 
 #### 💬 About Me
-I'm a architect, engineer, researcher, programmer who focuses on robotic & digital fabrication, computational design in architecture, and strogly interested in visual computing.
+I'm a architect, engineer, researcher, programmer who focuses on robotic & digital fabrication, computational design in architecture, and strogly interested in visual computing.<br/>
 I recevied a MAS in Architecture and Digital Fabrication at ETH Zürich and BArch at Tamkang University and workes as a project consultant in AEC and scientific researcher. My passion combines computation and robotic with design and fabrication.<br/>
 
 #### 📫 Connect me with:<br/>
