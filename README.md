@@ -9,15 +9,13 @@ Hi there
 <div id="about me" align="justify">
 <h3 align="center">A bit About Me
 </h3>
-<p>
 I'm a **developer, engineer, and architect** based on zurich. Currently, I work for [USI-FMAA] and
 [ETHZ-NCCR] as a collaborative researcher who passionate about coding, robotics, and design. As
 a software developer, I am working on desktop application, computer grapchics and computer system.
 As a architect, I am focusing on comupational design and robotic fabrication.
-</p>
+<hr width="100%" />
 </div>
 [USI-FMAA]: https://github.com/USI-FMAA
-<hr width="100%" />
 
 <div id="Tech Stack" align="center">
 <h3 align="center">Tech Stack
