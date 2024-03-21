@@ -9,7 +9,7 @@ Hi there
 <div id="about me" align="justify">
 <h3 align="center">A bit About Me
 </h3>
-  <hr width=50% />
+  <hr align="center" width=40% />
 I'm a <strong>developer, engineer, and architect</strong> based on zurich. Currently, I work for
 <a href="https://github.com/USI-FMAA">USI-FMAA</a> and <a href="https://dfab.ch">ETHZ-NCCR</a>
 as a collaborative researcher who passionate about coding, robotics, and design. As
@@ -23,7 +23,7 @@ In my free time, I am building my muscle at gym. 😎
 <div id="Tech Stack" align="center">
 <h3 align="center">Tech Stack
 </h3>
-  <hr width=50% />
+  <hr width=40% />
 <h5 align="center"> Lanuages
 </h5>
 
@@ -42,7 +42,7 @@ src="https://skillicons.dev/icons?i=neovim,visualstudio,vscode,git,docker,bash,l
 <div id="Tech Stack" align="center">
 <h3 align="center"> Stats
 </h3>
-<hr width=50% />
+<hr width=40% />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeiTing1991&hide_progress=true&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
