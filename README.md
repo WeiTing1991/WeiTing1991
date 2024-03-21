@@ -14,9 +14,10 @@ I'm a <strong>developer, engineer, and architect</strong> based on zurich. Curre
 as a collaborative researcher who passionate about coding, robotics, and design. As
 a software developer, I am working on desktop application, computer grapchics and computer system.
 As a architect, I am focusing on comupational design and robotic fabrication.
-In my free time, I am building my muscle at gym. 😎
-<hr width="100%" />
+In my free time, I am building my muscle at gym. 😎  
 </div>
+
+<br>
 
 <div id="Tech Stack" align="center">
 <h3 align="center">Tech Stack
@@ -33,9 +34,9 @@ src="https://skillicons.dev/icons?i=python,c,cpp,lua,go,java,arduino&perline=10"
 <img
 src="https://skillicons.dev/icons?i=neovim,visualstudio,vscode,git,docker,bash,linux,idea,maven,figma,ps,ai,ae,github&perline=7"/>
 
-<hr width="50%" size="1" noshade/>
 </div>
 
+<br>
 <div id="Tech Stack" align="center">
 <h3 align="center"> Stats
 </h3>
@@ -49,12 +50,10 @@ https://shields.io/badges
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-GitHub-username&theme=dark&background=000000)](https://git.io/streak-stats)
 https://dev.to/envoy_/150-badges-for-github-pnk
 -->
-
 </div>
+<br>
 
 <div id="badge" align="center">
-  <hr width="50%" size="1" noshade/>
-
   <h3 align="center">Connect With Me
   </h3>
 
