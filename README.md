@@ -8,7 +8,7 @@ Hi there
 
 <div id="about me" align="justify">
 <h3 align="center">A bit About Me
-<hr width=40% />
+<hr align="center" width=40% />
 </h3>
   
 I'm a <strong>developer, engineer, and architect</strong> based on zurich. Currently, I work for
