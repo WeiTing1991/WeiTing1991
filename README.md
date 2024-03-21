@@ -8,8 +8,9 @@ Hi there
 
 <div id="about me" align="justify">
 <h3 align="center">A bit About Me
+<hr width=40% />
 </h3>
-  <hr align="center" width=40% />
+  
 I'm a <strong>developer, engineer, and architect</strong> based on zurich. Currently, I work for
 <a href="https://github.com/USI-FMAA">USI-FMAA</a> and <a href="https://dfab.ch">ETHZ-NCCR</a>
 as a collaborative researcher who passionate about coding, robotics, and design. As
