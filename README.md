@@ -32,7 +32,7 @@ src="https://skillicons.dev/icons?i=python,c,cpp,lua,go,java,arduino&perline=10"
 
 <img
 src="https://skillicons.dev/icons?i=neovim,visualstudio,vscode,git,docker,bash,linux,idea,maven,figma,ps,ai,ae,github&perline=7"/>
-<hr width="50%" size="10" />
+<hr width="50%" size="10" noshade/>
 </div>
 
 
