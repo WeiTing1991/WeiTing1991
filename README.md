@@ -7,22 +7,21 @@ Hi there
 </div>
 
 <div id="about me" align="justify">
-<h4 align="center">A bit About Me
-</h4>
-
+<h3 align="center">A bit About Me
+</h3>
+<p>
 I'm a **developer, engineer, and architect** based on zurich. Currently, I work for [USI-FMAA] and
-[ETHZ-NCCR] as a collaborative researcher who passionate about new tech, coding, robotics, and design. As
+[ETHZ-NCCR] as a collaborative researcher who passionate about coding, robotics, and design. As
 a software developer, I am working on desktop application, computer grapchics and computer system.
 As a architect, I am focusing on comupational design and robotic fabrication.
-
+</p>
 </div>
-
----
+<hr width="100%" />
 
 <div id="Tech Stack" align="center">
-<h4 align="center">Tech Stack
-</h4>
-<h5 align="center"> Lanuages I use and work on
+<h3 align="center">Tech Stack
+</h3>
+<h5 align="center"> Lanuages
 </h5>
 
 <img  
@@ -35,10 +34,11 @@ src="https://skillicons.dev/icons?i=python,c,cpp,lua,go,java,arduino&perline=10"
 src="https://skillicons.dev/icons?i=neovim,visualstudio,vscode,git,docker,bash,linux,idea,maven,figma,ps,ai,ae,github&perline=7"/>
 
 </div>
+<hr width="50%" />
 
 <div id="Tech Stack" align="center">
-<h4 align="center"> Stats
-</h4>
+<h3 align="center"> Stats
+</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeiTing1991&hide_progress=true&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -51,10 +51,11 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 -->
 
 </div>
+<hr width="50%" />
 
 <div id="badge" align="center">
-<h4 align="center">Connect With Me
-</h4>
+<h3 align="center">Connect With Me
+</h3>
 
 <a href="https://github.com/WeiTing1991">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
@@ -69,6 +70,3 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 </div>
 
 [USI-FMAA]: https://github.com/USI-FMAA
-[ETHZ]: https://dfab.ch
-
-</div>
