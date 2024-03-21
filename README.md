@@ -51,11 +51,12 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 -->
 
 </div>
-<hr width="50%" />
 
 <div id="badge" align="center">
-<h3 align="center">Connect With Me
-</h3>
+  <hr width="50%" size="1" noshade/>
+
+  <h3 align="center">Connect With Me
+  </h3>
 
 <a href="https://github.com/WeiTing1991">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
