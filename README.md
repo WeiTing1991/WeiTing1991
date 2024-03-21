@@ -16,6 +16,7 @@ a software developer, I am working on desktop application, computer grapchics an
 As a architect, I am focusing on comupational design and robotic fabrication.
 </p>
 </div>
+[USI-FMAA]: https://github.com/USI-FMAA
 <hr width="100%" />
 
 <div id="Tech Stack" align="center">
@@ -70,4 +71,4 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 </div>
 
-[USI-FMAA]: https://github.com/USI-FMAA
+
