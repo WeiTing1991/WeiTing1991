@@ -9,11 +9,12 @@ Hi there
 <div id="about me" align="justify">
 <h3 align="center">A bit About Me
 </h3>
-  I'm a <strong>developer, engineer, and architect</strong> based on zurich. Currently, I work for 
-<a href="https://github.com/USI-FMAA">USI-FMAA</a> and <a href="https://dfab.ch">ETHZ-NCCR</a> 
+I'm a <strong>developer, engineer, and architect</strong> based on zurich. Currently, I work for
+<a href="https://github.com/USI-FMAA">USI-FMAA</a> and <a href="https://dfab.ch">ETHZ-NCCR</a>
 as a collaborative researcher who passionate about coding, robotics, and design. As
 a software developer, I am working on desktop application, computer grapchics and computer system.
 As a architect, I am focusing on comupational design and robotic fabrication.
+In my free time, I am building my muscle at gym. 😎
 <hr width="100%" />
 </div>
 
@@ -31,9 +32,9 @@ src="https://skillicons.dev/icons?i=python,c,cpp,lua,go,java,arduino&perline=10"
 
 <img
 src="https://skillicons.dev/icons?i=neovim,visualstudio,vscode,git,docker,bash,linux,idea,maven,figma,ps,ai,ae,github&perline=7"/>
+
 <hr width="50%" size="1" noshade/>
 </div>
-
 
 <div id="Tech Stack" align="center">
 <h3 align="center"> Stats
@@ -68,5 +69,3 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 </a>
 
 </div>
-
-
