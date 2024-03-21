@@ -11,7 +11,7 @@ Hi there
 </h4>
 
 I'm a **developer, engineer, and architect** based on zurich. Currently, I work for [USI-FMAA] and
-[ETHZ] as a collaborative researcher who passionate about new tech, coding, robotics, and design. As
+[ETHZ-NCCR] as a collaborative researcher who passionate about new tech, coding, robotics, and design. As
 a software developer, I am working on desktop application, computer grapchics and computer system.
 As a architect, I am focusing on comupational design and robotic fabrication.
 
@@ -52,22 +52,23 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 </div>
 
-<div id="badgw" align="center">
+<div id="badge" align="center">
 <h4 align="center">Connect With Me
 </h4>
 
 <a href="https://github.com/WeiTing1991">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/chen-weiting/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
 <a href="https://weitingworks.com">
   <img src="https://img.shields.io/badge/website-330F63?style=for-the-badge&logo=About.me&logoColor=white">
 </a>
+<a href="https://www.linkedin.com/in/chen-weiting/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
 </div>
 
 [USI-FMAA]: https://github.com/USI-FMAA
-[ETHZ]: https://www.ethz.ch/en.html
+[ETHZ]: https://dfab.ch
 
 </div>
