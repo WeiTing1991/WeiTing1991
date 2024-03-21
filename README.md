@@ -9,14 +9,13 @@ Hi there
 <div id="about me" align="justify">
 <h3 align="center">A bit About Me
 </h3>
-I'm a **developer, engineer, and architect** based on zurich. Currently, I work for 
+  <p>
+  I'm a **developer, engineer, and architect** based on zurich. Currently, I work for 
 <a href="https://github.com/USI-FMAA">USI-FMAA</a> and <a href="https://dfab.ch">ETHZ-NCCR</a>
 [ETHZ-NCCR] as a collaborative researcher who passionate about coding, robotics, and design. As
 a software developer, I am working on desktop application, computer grapchics and computer system.
 As a architect, I am focusing on comupational design and robotic fabrication.
-<a href="https://github.com/WeiTing1991">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</a>
+  </p>
 <hr width="100%" />
 </div>
 
