@@ -1,6 +1,5 @@
 <div id="header" align="center">
-<h1>
-Hi there
+<h1> Hi there
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 , I'm WeiTing
 </h1>
@@ -12,11 +11,10 @@ Hi there
 I'm a <strong>developer, engineer, and architect</strong> based on zurich. Currently, I work for
 <a href="https://github.com/USI-FMAA">USI-FMAA</a> and <a href="https://dfab.ch">ETHZ-NCCR</a>
 as a collaborative researcher who passionate about coding, robotics, and design. As
-a software developer, I am working on desktop application, computer grapchics and computer system.
-As a architect, I am focusing on comupational design and robotic fabrication.
+a software developer, I am working on desktop application, computer graphics and computer system.
+As a architect, I am focusing on computational design and robotic fabrication.
 In my free time, I am building my muscle at gym. 😎  
 </div>
-
 <br>
 
 <div id="Tech Stack" align="center">
@@ -26,13 +24,14 @@ In my free time, I am building my muscle at gym. 😎
 </h5>
 
 <img  
-src="https://skillicons.dev/icons?i=python,c,cpp,lua,go,java,arduino&perline=10"/>
+src="https://skillicons.dev/icons?i=python,c,cpp,arduino,lua,go,java&perline=10"/>
 
 <h5 align="center"> Tools
 </h5>
 
 <img
-src="https://skillicons.dev/icons?i=neovim,visualstudio,vscode,git,docker,bash,linux,idea,maven,figma,ps,ai,ae,github&perline=7"/>
+src="https://skillicons.dev/icons?i=neovim,visualstudio,vscode,
+git,github,docker,bash,linux,idea,maven,figma,ps,ai,ae&perline=7"/>
 
 </div>
 
