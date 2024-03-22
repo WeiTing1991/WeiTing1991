@@ -36,7 +36,6 @@ src="https://skillicons.dev/icons?i=neovim,visualstudio,vscode,git,github,docker
 </h3>
 <hr width=60% />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeiTing1991&hide_progress=true&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- NOTE:
 ![Anurag's GitHub
