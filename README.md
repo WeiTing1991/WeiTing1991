@@ -20,7 +20,7 @@ building my muscle at gym. 😎
 <div id="Tech Stack" align="center">
 <h3 align="center">Tech Stack
 </h3>
-  <hr width=50% />
+  <hr width=60% />
 <h5 align="center"> Languages
 </h5>
 <img  
@@ -34,7 +34,7 @@ src="https://skillicons.dev/icons?i=neovim,visualstudio,vscode,git,github,docker
 <div id="Tech Stack" align="center">
 <h3 align="center"> Stats
 </h3>
-<hr width=50% />
+<hr width=60% />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeiTing1991&hide_progress=true&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -52,7 +52,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
   <h3 align="center">Connect With Me
   </h3>
 
-<hr width=50% />
+<hr width=60% />
 <a href="https://github.com/WeiTing1991">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
