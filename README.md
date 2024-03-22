@@ -14,7 +14,6 @@ as a collaborative researcher who passionate about coding, robotics, and design.
 developer, I am working on backend development, desktop application, computer graphics and computer system. As a
 architect, I am focusing on computational design and robotic fabrication. In my free time, I am
 building my muscle at gym. 😎
-<hr width=100% />
 </div>
 <br>
 
@@ -29,8 +28,7 @@ src="https://skillicons.dev/icons?i=python,c,cpp,arduino,lua,go,java&perline=10"
 <h5 align="center"> Tools
 </h5>
 <img
-src="https://skillicons.dev/icons?i=neovim,visualstudio,vscode,
-git,github,docker,bash,linux,idea,maven,figma,ps,ai,ae&perline=7"/>
+src="https://skillicons.dev/icons?i=neovim,visualstudio,vscode,git,github,docker,bash,linux,idea,maven,figma,ps,ai,ae&perline=7"/>
 </div>
 <br>
 <div id="Tech Stack" align="center">
