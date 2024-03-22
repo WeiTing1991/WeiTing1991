@@ -8,46 +8,35 @@
 <div id="about me" align="justify">
 <h3 align="center">A bit About Me
 </h3>
-
 I'm a <strong>developer, engineer, and architect</strong> based in Zurich. Currently, I work for
 <a href="https://github.com/USI-FMAA">USI-FMAA</a> and <a href="https://dfab.ch">ETHZ-NCCR</a>
-<<<<<<< HEAD:readme.md.bak
-as a collaborative researcher who passionate about coding, robotics, and design. As
-a software developer, I am working on desktop application, computer graphics and computer system.
-As a architect, I am focusing on computational design and robotic fabrication.
-=======
-as a collaborative researcher who is passionate about coding, robotics, and design. As
-a software developer, I am working on, backend development, desktop applications, computer graphics and computer systems.
-As an architect, I am focusing on computational design and robotic fabrication.
->>>>>>> refs/remotes/origin/main:README.md
-In my free time, I am building my muscle at gym. 😎  
+as a collaborative researcher who passionate about coding, robotics, and design. As a software
+developer, I am working on backend development, desktop application, computer graphics and computer system. As a
+architect, I am focusing on computational design and robotic fabrication. In my free time, I am
+building my muscle at gym. 😎
+<hr width=100% />
 </div>
 <br>
 
 <div id="Tech Stack" align="center">
 <h3 align="center">Tech Stack
 </h3>
-  <hr width=40% />
-<h5 align="center"> Lanuages
+  <hr width=50% />
+<h5 align="center"> Languages
 </h5>
-
 <img  
 src="https://skillicons.dev/icons?i=python,c,cpp,arduino,lua,go,java&perline=10"/>
-
 <h5 align="center"> Tools
 </h5>
-
 <img
 src="https://skillicons.dev/icons?i=neovim,visualstudio,vscode,
 git,github,docker,bash,linux,idea,maven,figma,ps,ai,ae&perline=7"/>
-
 </div>
-
 <br>
 <div id="Tech Stack" align="center">
 <h3 align="center"> Stats
 </h3>
-<hr width=40% />
+<hr width=50% />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeiTing1991&hide_progress=true&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -65,6 +54,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
   <h3 align="center">Connect With Me
   </h3>
 
+<hr width=50% />
 <a href="https://github.com/WeiTing1991">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
