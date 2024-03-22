@@ -10,11 +10,11 @@ Hi there
 <h3 align="center">A bit About Me
 </h3>
 
-I'm a <strong>developer, engineer, and architect</strong> based on zurich. Currently, I work for
+I'm a <strong>developer, engineer, and architect</strong> based in Zurich. Currently, I work for
 <a href="https://github.com/USI-FMAA">USI-FMAA</a> and <a href="https://dfab.ch">ETHZ-NCCR</a>
-as a collaborative researcher who passionate about coding, robotics, and design. As
-a software developer, I am working on desktop application, computer grapchics and computer system.
-As a architect, I am focusing on comupational design and robotic fabrication.
+as a collaborative researcher who is passionate about coding, robotics, and design. As
+a software developer, I am working on, backend development, desktop applications, computer graphics and computer systems.
+As an architect, I am focusing on computational design and robotic fabrication.
 In my free time, I am building my muscle at gym. 😎  
 </div>
 
