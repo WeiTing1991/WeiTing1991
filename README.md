@@ -1,6 +1,6 @@
 # Hi there, I'm WeiTing <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-#### A BIT ABOUT ME
+## A BIT ABOUT ME
 
 I'm a <strong>developer, engineer, and architect</strong> based in Zurich. Currently, I work for
 <a href="https://github.com/USI-FMAA">USI-FMAA</a> and <a href="https://dfab.ch">ETHZ-NCCR</a>
@@ -11,22 +11,18 @@ and computer system. As a architect, I am focusing on computational design and r
 
 In my free time, I am building my muscle at gym. 😎
 
----
+## TECH STACK
 
-#### TECH STACK
-
-##### Languages
+### Languages
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,lua,go,java&perline=10"/>
 
-##### Tools
+### Tools
 
 <img
 src="https://skillicons.dev/icons?i=neovim,visualstudio,vscode,git,github,docker,bash,linux,obsidian,figma,ps,ai,ae&perline=7"/>
 
----
-
-#### CONNECT WITH ME
+## CONNECT WITH ME
 
 <a href="https://github.com/WeiTing1991">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
