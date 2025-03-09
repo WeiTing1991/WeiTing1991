@@ -5,7 +5,7 @@
 <div>
 	<p>
 		I'm a <strong>software developer and architectural engineer</strong> based in Zurich. Currently, I work as a Scientific researcher at <a
-			href="https://gramaziokohler.arch.ethz.ch/web/d/forschung/index.html">GKR</a> and a software developer at <a href="https://github.com/Mesh-ch">MESH AG</a>.
+			href="https://dfab.ch/people/weiting-chen">GKR</a> and a software developer at <a href="https://github.com/Mesh-ch">MESH AG</a>.
 		With past experience of software development & robotic fabrication projects at research groups <a href="https://github.com/USI-FMAA">USI-FMAA</a> and <a href="https://dfab.ch/teams/prof-dr-robert-flatt">PCBM ETHZ</a> as a Scientific researcher, please find out the repo if you interested.
 	</p>
 	<p>
