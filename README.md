@@ -5,8 +5,7 @@
 <div>
 	<p>
 		I'm a <strong>software developer and architectural engineer</strong> based in Zurich. Currently, I work as a Scientific researcher at <a
-			href="https://dfab.ch/people/weiting-chen">GKR</a> and a software developer at <a href="https://github.com/Mesh-ch">MESH AG</a>.
-		With past experience of software development & robotic fabrication projects at research groups <a href="https://github.com/USI-FMAA">USI-FMAA</a> and <a href="https://dfab.ch/teams/prof-dr-robert-flatt">PCBM ETHZ</a> as a Scientific researcher, please find out the repo if you interested.
+			href="https://dfab.ch/people/weiting-chen">GKR</a> and a software developer at <a href="https://github.com/Mesh-ch">MESH AG</a>. I specialize in software development and robotic fabrication, with experience working on projects in research groups projects <a href="https://github.com/USI-FMAA">USI-FMAA</a> and <a href="https://dfab.ch/teams/prof-dr-robert-flatt">PCBM ETHZ</a> and industries.
 	</p>
 	<p>
 		As a software developer, I focus on full-stack desktop/web applications, computer graphics, and computer systems. As an architectural engineer, I specialize in automation, computational design and robotic fabrication.
@@ -20,7 +19,7 @@
 <!---->
 
 ### 💻 Tech Stack
-
+---
 #### Daily Driver
 
 <div>
@@ -50,7 +49,7 @@
 </div>
 
 ### 💭Connect With Me
-
+---
 <a href="https://github.com/WeiTing1991">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
