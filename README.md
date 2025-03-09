@@ -1,18 +1,21 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Heya, I'm WeiTing!
 
-#### 💻 A BIT ABOUT ME
-<span>
-I'm a <strong>software developer and architectural engineer</strong> based in Zurich. Currently, I work as a Scientific researcher at <a
-	href="https://gramaziokohler.arch.ethz.ch/web/d/forschung/index.html">GKR</a> and a software developer at <a href="https://github.com/Mesh-ch">MESH AG</a>. My passions include<strong> software development, computational design, robotic fabrication, and computer graphics. </strong>
-</span>
-<br/>
-<span>
-	As a software developer, I specialize in backend development, desktop applications, computer graphics, and computer systems. As an architectural engineer, I focus on computational design and robotic fabrication.
-<br />
-	Previously, I worked on software development and robotic fabrication projects as a Scientific Researcher between research group <a href="https://github.com/USI-FMAA">USI-FMAA</a> and <a href="https://dfab.ch/teams/prof-dr-robert-flatt">PCBM ETHZ</a> as a Scientific researcher, please find out the repo if you interested.
-<br />
-In my free time, I enjoy building muscle at the gym. 😎
-</span>
+### A BIT ABOUT ME
+
+<div>
+	<p>
+		I'm a <strong>software developer and architectural engineer</strong> based in Zurich. Currently, I work as a Scientific researcher at <a
+			href="https://gramaziokohler.arch.ethz.ch/web/d/forschung/index.html">GKR</a> and a software developer at <a href="https://github.com/Mesh-ch">MESH AG</a>.
+		With past experience of software development & robotic fabrication projects at research groups <a href="https://github.com/USI-FMAA">USI-FMAA</a> and <a href="https://dfab.ch/teams/prof-dr-robert-flatt">PCBM ETHZ</a> as a Scientific researcher, please find out the repo if you interested.
+	</p>
+	<p>
+		As a software developer, I focus on full-stack desktop/web applications, computer graphics, and computer systems. As an architectural engineer, I specialize in automation, computational design and robotic fabrication.
+		In my free time, I enjoy building muscle at the gym. 😎
+	</p> 
+	<p>
+		In my free time, I enjoy building muscle at the gym. 😎
+	</p> 
+</div>
 
 <!-- Also, I am a part of collaborative researcher at <a href="https://dfab.ch/people/weiting-chen">ETHZ-NCCR</a>. I am passionate about <strong>software development, computational design, robotic fabrication, and computer graphics</strong>. -->
 <!---->
