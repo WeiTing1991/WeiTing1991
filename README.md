@@ -10,7 +10,6 @@
 	</p>
 	<p>
 		As a software developer, I focus on full-stack desktop/web applications, computer graphics, and computer systems. As an architectural engineer, I specialize in automation, computational design and robotic fabrication.
-		In my free time, I enjoy building muscle at the gym. 😎
 	</p> 
 	<p>
 		In my free time, I enjoy building muscle at the gym. 😎
