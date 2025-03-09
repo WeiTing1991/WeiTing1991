@@ -45,8 +45,8 @@
 #### Exploring
 
 <div>
-	<img src="https://img.shields.io/badge/Go-2C2D72?style=for-the-badge&logo=go&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Java-2C2D72?style=for-the-badge&logo=openjdk&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Go-14354C?style=for-the-badge&logo=go&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Java-14354C?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div>
 
 ### 💭Connect With Me
@@ -55,8 +55,8 @@
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <a href="https://weitingworks.com">
-<img src="https://img.shields.io/badge/website-330F63?style=for-the-badge&logo=About.me&logoColor=white">
+<img src="https://img.shields.io/badge/website-100000?style=for-the-badge&logo=About.me&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/chen-weiting/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
