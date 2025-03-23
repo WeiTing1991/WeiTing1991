@@ -38,7 +38,6 @@
 	<!-- <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/> -->
 	<img src="https://img.shields.io/badge/C-14354C?style=for-the-badge&logo=c&logoColor=white"/>
 	<img src="https://img.shields.io/badge/C%2B%2B-14354C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Dart-14354C?style=for-the-badge&logo=dart&logoColor=white"/>
 <div>
 
 #### Exploring
