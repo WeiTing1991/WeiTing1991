@@ -18,34 +18,12 @@
 <!-- Also, I am a part of collaborative researcher at <a href="https://dfab.ch/people/weiting-chen">ETHZ-NCCR</a>. I am passionate about <strong>software development, computational design, robotic fabrication, and computer graphics</strong>. -->
 <!---->
 
-### 💻 Tech Stack
----
-#### Daily Driver
+### 💻 Daily Diver
 
 <div>
 	<img src="https://img.shields.io/badge/NEOVIM-302D41?style=for-the-badge&logo=neovim"/>
-	<img src="https://img.shields.io/badge/VSCODE-302D41?style=for-the-badge&logo=visual-studio"/>
-	<img src="https://img.shields.io/badge/GIT-302D41?style=for-the-badge&logo=git"/>
-	<img src="https://img.shields.io/badge/BASH-302D41?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+	<img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"/>
 <div>
-
-#### Languages
-
-<div>
-	<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Lua-14354C?style=for-the-badge&logo=lua&logoColor=white"/>
-	<img src= "https://img.shields.io/badge/TypeScript-14354C?style=for-the-badge&logo=typescript&logoColor=white"/>
-	<!-- <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/> -->
-	<img src="https://img.shields.io/badge/C-14354C?style=for-the-badge&logo=c&logoColor=white"/>
-	<img src="https://img.shields.io/badge/C%2B%2B-14354C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<div>
-
-#### Exploring
-
-<div>
-	<img src="https://img.shields.io/badge/Go-14354C?style=for-the-badge&logo=go&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Java-14354C?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</div>
 
 ### 💭Connect With Me
 ---
