@@ -23,6 +23,8 @@
 <div>
 	<img src="https://img.shields.io/badge/NEOVIM-302D41?style=for-the-badge&logo=neovim"/>
 	<img src="https://img.shields.io/badge/tmux-302D41?style=for-the-badge&logo=tmux&logoColor=white"/>
+	<img src="https://img.shields.io/badge/VSCode-302D41?style=for-the-badge&logo=VSCode&logoColor=white"/>
+	
 <div>
 
 ### 💭Connect With Me
