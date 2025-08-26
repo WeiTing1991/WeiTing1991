@@ -4,10 +4,10 @@
 
 <div>
 	<p>
-		I'm a <strong>software engineer</strong> based in Zurich. I specialize in R&D Software, robotics, automation with experience working on servvla projects between academia and industry. you can find my works <a href="https://weitingworks.vercel.app/#project">here</a>.
+		I'm a <strong>software engineer</strong> based in Zurich. I specialize in R&D Software, robotics, automation with experience working on different projects between academia and industry. you can find my works <a href="https://weitingworks.vercel.app/#project">here</a>.
 	</p>
 	<p>
-		As a software engineer, I focus on full-stack desktop/web applications, computer graphics/vision. As an architectural engineer, I specialize in automation, computational design and robotic fabrication. Currently, I am learning machine learning and reinforcement learning.
+		As a software engineer, I focus on full-stack desktop/web applications, computer graphics/vision. As an architectural engineer, I specialize in automation, robotic fabrication. Currently, I am learning machine learning and reinforcement learning.
 	</p> 
 	<p>
 		In my free time, I enjoy building muscle at the gym. 😎
@@ -21,7 +21,6 @@
 <div>
 	<img src="https://img.shields.io/badge/NEOVIM-302D41?style=for-the-badge&logo=neovim"/>
 	<img src="https://img.shields.io/badge/WEZTERM-302D41?style=for-the-badge&logo=wezterm&logoColor=white"/>
-	<!-- <img src="https://img.shields.io/badge/tmux-302D41?style=for-the-badge&logo=tmux&logoColor=white"/> -->
 <div>
 
 #### 💭Connect With Me
