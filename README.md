@@ -19,6 +19,7 @@
 ---
 
 <div>
+	<img src="https://img.shields.io/badge/ZED-302D41.svg?style=for-the-badge&logo=zedindustries&logoColor=white"/>
 	<img src="https://img.shields.io/badge/NEOVIM-302D41?style=for-the-badge&logo=neovim"/>
 	<img src="https://img.shields.io/badge/WEZTERM-302D41?style=for-the-badge&logo=wezterm&logoColor=white"/>
 <div>
