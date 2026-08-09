@@ -4,10 +4,10 @@
 
 <div>
 	<p>
-		I'm a <strong>software engineer</strong> based in Zurich. I specialize in R&D software, robotics, automation with experience on different projects between academia and industry. you can find my works <a href="https://weitingworks.vercel.app/#project">here</a>.
+		I'm a <strong>software engineer</strong> based in Zurich with serval years experience in software development, computational geometry, manufacturing, robotic control on different projects between academia and industry. You can find my works <a href="https://weitingworks.vercel.app/#project">here</a>.
 	</p>
 	<p>
-		I focus on full-stack desktop/web applications, computer graphics, CAD/CAM. and with experience in automation, robotic fabrication. Currently, I am learning machine learning and reinforcement learning.
+		I focus on desktop/web applications, computer graphics, CAD/CAM. and with experience in robotics, automation.
 	</p> 
 	<p>
 		In my free time, I enjoy building muscle at the gym. 😎
