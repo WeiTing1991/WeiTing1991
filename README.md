@@ -4,11 +4,8 @@
 
 <div>
 	<p>
-		I'm a <strong>software engineer</strong> based in Zurich with serval years experience in software development, computational geometry, manufacturing, robotic control on different projects between academia and industry. You can find my works <a href="https://weitingworks.vercel.app/#project">here</a>.
+		I'm a <strong>software engineer</strong> based in Zurich with serval years experience in software development, computational geometry, CAD/CAM, robotic control on different projects between academia and industry. You can find my works <a href="https://weitingworks.vercel.app/#project">here</a>.
 	</p>
-	<p>
-		I focus on desktop/web applications, computer graphics, CAD/CAM, and robotics.
-	</p> 
 	<p>
 		In my free time, I enjoy building muscle at the gym. 😎
 	</p> 
@@ -19,9 +16,9 @@
 ---
 
 <div>
-	<img src="https://img.shields.io/badge/NEOVIM-302D41?style=for-the-badge&logo=neovim"/>
-	<img src="https://img.shields.io/badge/ZED-302D41.svg?style=for-the-badge&logo=zedindustries&logoColor=white"/>
-	<img src="https://img.shields.io/badge/WEZTERM-302D41?style=for-the-badge&logo=wezterm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NEOVIM-0F2540?style=for-the-badge&logo=neovim"/>
+  <img src="https://img.shields.io/badge/ZED-0F2540.svg?style=for-the-badge&logo=zedindustries&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WEZTERM-0F2540?style=for-the-badge&logo=wezterm&logoColor=white"/>
 <div>
 
 #### 💭Connect With Me
@@ -29,8 +26,8 @@
 ---
 
 <a href="https://weitingworks.com">
-<img src="https://img.shields.io/badge/website-100000?style=for-the-badge&logo=About.me&logoColor=white">
+<img src="https://img.shields.io/badge/website-0F2540?style=for-the-badge&logo=About.me&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/chen-weiting/">
-<img src="https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0F2540?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
